@@ -2,6 +2,7 @@
 # Image Restoration Project - README
 
 ##Youtube link:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BMiy5SJKojA/0.jpg)](https://www.youtube.com/watch?v=BMiy5SJKojA)
 (https://youtu.be/BMiy5SJKojA)
 
 ## Introduction
