@@ -1,9 +1,12 @@
 # Advancing-the-Architecture-of-Restoring-Extremely-Dark-Images-in-Real-Time
 # Image Restoration Project - README
 
-##Youtube link:
+## Youtube link:
+
+
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BMiy5SJKojA/0.jpg)](https://www.youtube.com/watch?v=BMiy5SJKojA)
-(https://youtu.be/BMiy5SJKojA)
+
 
 ## Introduction
 Welcome to the Image Restoration Project! This project focuses on advancing the architecture for restoring extremely dark images in real time. The goal is to balance restoration quality, computational efficiency, and speed. We build upon Lamba and Mitra's foundational work, aiming to refine their deep learning model and push the boundaries of low-light image enhancement.
