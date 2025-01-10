@@ -1,0 +1,4 @@
+-- psnr_avg:12.957619006448224, ssim_avg:0.0, c_gt_avg:0.0, c_pred_avg:0.0, iter:2
+-- psnr_avg:23.066476584963716, ssim_avg:0.0, c_gt_avg:0.0, c_pred_avg:0.0, iter:1000
+-- psnr_avg:23.88598667268215, ssim_avg:0.0, c_gt_avg:0.0, c_pred_avg:0.0, iter:2000
+-- psnr_avg:24.609567166968727, ssim_avg:0.0, c_gt_avg:0.0, c_pred_avg:0.0, iter:3000
